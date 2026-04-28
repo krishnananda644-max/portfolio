@@ -91,7 +91,6 @@ I am passionate about Python, C, and Web Development, and I enjoy turning comple
 
 * 📧 Email: [krishnanada644@gmail.com](mailto:krishnanada644@gmail.com)
 * 📱 Phone: +91 62817 14601
-* 🔗 LinkedIn: (Add your LinkedIn link here)
 
 ---
 
